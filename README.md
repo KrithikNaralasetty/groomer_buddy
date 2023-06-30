@@ -1,16 +1,9 @@
-# groomer_buddy
+# A Pet Groomer Buddy in chat
 
-A new Flutter project.
+## Implemented using Chat GPT API (Turbo API)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features
+- [x] GPT-3 Chatbot with Personality and Memory
+- [x] Almost Instantaneous Responses based on the context of the conversation
+- [x] Can be used as a Pet Groomer Buddy/Assistant.
+- [x] Helps out in making informed decisions, help in grooming, and also helps learn new things about client's pets
