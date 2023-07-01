@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897159385538",
+    "project_id": "groomer-buddy",
+    "storage_bucket": "groomer-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897159385538:android:98e6b8296e8ee83116065b",
+        "android_client_info": {
+          "package_name": "com.example.groomer_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897159385538-r3j15lrvu7akok4mcui3frpk9ioste38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYJP0YvWy3pa7UJFpmtOnirm1ARV6wF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897159385538-r3j15lrvu7akok4mcui3frpk9ioste38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
